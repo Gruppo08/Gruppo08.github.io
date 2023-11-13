@@ -1,0 +1,20 @@
+# Material file for gromit.obj
+
+newmtl Tex_0028_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd Tex_0028_0.png
+
+newmtl Tex_0029_0_dds
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd Tex_0029_0.png
+
